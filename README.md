@@ -41,7 +41,7 @@
 <!--about-->
 ### About Me
 - 🔭 I’m currently working on **building exciting web applications** that will make the internet go "Whoa!"
-- 🌱 I’m currently learning **Node.js and GraphQL** to add some magic to my coding spells.
+- 🌱 I’m currently learning **Kotlin and Firebase** to add some magic to my coding spells.
 - 👯 I’m looking to collaborate on **open-source projects** because the more, the merrier in the realm of coding!
 - 🤔 I’m looking for help with **competitive programming** because I want to level up my coding ninja skills.
 - 💬 Ask me about **web development, UI/UX design, and programming languages**, and I'll have something to input!
