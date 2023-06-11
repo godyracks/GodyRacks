@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @GodyRacks
-- 👀 I’m interested in HTML, Sass, ,node.js,express.js ,JavaScript,Git,kivy,python,flask, C.
-- 🌱 I’m currently learning BSC COMPUTER SCIENCE, SWE.
-- 💞️ I’m looking forward to collaborate on any of the above mentioned topics 
-- 📫 How to reach me www.techwithgodfrey.top
+# Hello, I'm Godfrey! 👋
 
-<!---
-GodyRacks/GodyRacks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a BSc Computer Science student and software enthusiast. Welcome to my GitHub profile!
+
+## Skills and Interests
+
+- HTML
+- Sass
+- Node.js
+- Express.js
+- JavaScript
+- Git
+- Kivy
+- Python
+- Flask
+- C
+
+## Education
+
+- Currently pursuing a BSc in Computer Science
+
+## Get in Touch
+
+- 🌐 Website: [www.techwithgodfrey.top](https://www.techwithgodfrey.top)
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+
+## Collaboration
+
+I'm always open to collaborating on projects related to any of the skills and topics mentioned above. Feel free to reach out if you have any interesting opportunities!
+
