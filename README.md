@@ -20,7 +20,7 @@
 
 
 
-[![committers.top badge](https://user-badge.committers.top/kenya/GodyRacks.svg)](https://user-badge.committers.top/kenya/GodyRacks)
+
 
 <a href="https://github.com/GodyRacks?tab=followers"></a>
 <img src="https://img.shields.io/github/followers/GodyRacks?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
@@ -45,17 +45,22 @@
 
 <!--about-->
 ### About Me
-- 🔭 I’m currently working on **building exciting web applications**
-- 🌱 I’m currently learning **Node.js and GraphQL**
-- 👯 I’m looking to collaborate on **open-source projects**
-- 🤔 I’m looking for help with **competitive programming**
-- 💬 Ask me about **web development, UI/UX design, and programming languages**
-- 📫 How to reach me: **[godfreymatagaro@gmail.com](mailto:godfreymatagaro@gmail.com)**
-- 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **I love watching futuristic movies && reading tech blogs**
+- 🔭 I’m currently working on **building exciting web applications** that will make the internet go "Whoa!"
+- 🌱 I’m currently learning **Node.js and GraphQL** to add some magic to my coding spells.
+- 👯 I’m looking to collaborate on **open-source projects** because the more, the merrier in the realm of coding!
+- 🤔 I’m looking for help with **competitive programming** because I want to level up my coding ninja skills.
+- 💬 Ask me about **web development, UI/UX design, and programming languages**, and I'll dazzle you with my knowledge!
+- 📫 How to reach me: Shoot me an email at **[godfreymatagaro@gmail.com](mailto:godfreymatagaro@gmail.com)**, and let's connect.
+- 😄 Pronouns: **He/Him** (but you can also call me "The Coding Sorcerer").
+- ⚡ Fun fact: **I love watching futuristic movies && reading tech blogs** to keep my imagination fueled and my coding vibes strong.
+
+🌐 Check out my website: [techwithgodfrey.top](https://techwithgodfrey.top)
+
+🎓 Currently studying BSc Computer Science and tinkering with Jetpack Compose and Cisco/Huawei network simulators. I'm also an API developer and a master of hardware assembly or dismantle.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GodyRacks.GodyRacks)
 <!--about-->
+
 
 <!--social-media-->
 ### Connect with Me
