@@ -22,7 +22,7 @@ I'm a BSc Computer Science student and software enthusiast. Welcome to my GitHub
 ## Get in Touch
 
 - 🌐 Website: [www.techwithgodfrey.top](https://www.techwithgodfrey.top)
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 📧 Email: [godfreymatagaro@gmail.com](mailto:godfreymatagaro@gmail.com)
 
 ## Collaboration
 
