@@ -18,14 +18,7 @@
 <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/header_.png">
 <!--svg-->
 
-<!--streaks-->
-<p>
-  <img height="200px" width="48%" src="https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true&theme=dark&hide_border=true">
-</p>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&theme=dark&langs_count=6&hide_border=true" width="47%"/>
-</a>
 
 [![committers.top badge](https://user-badge.committers.top/kenya/GodyRacks.svg)](https://user-badge.committers.top/kenya/GodyRacks)
 
@@ -51,9 +44,9 @@
 - 👯 I’m looking to collaborate on **open-source projects**
 - 🤔 I’m looking for help with **competitive programming**
 - 💬 Ask me about **web development, UI/UX design, and programming languages**
-- 📫 How to reach me: **[Email](mailto:godfrey@example.com)**
+- 📫 How to reach me: **[godfreymatagaro@gmail.com](mailto:godfreymatagaro@gmail.com)**
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **I love playing the guitar in my free time!**
+- ⚡ Fun fact: **I love watching futuristic movies && reading tech blogs**
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GodyRacks.GodyRacks)
 <!--about-->
@@ -68,9 +61,7 @@
 <!--social-media-->
 
 <!--footer-->
-<p align="center">
-  <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/footer_.png" width="100%">
-</p>
+
 <!--footer-->
 
 
