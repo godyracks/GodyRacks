@@ -22,7 +22,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/kenya/GodyRacks.svg)](https://user-badge.committers.top/kenya/GodyRacks)
 
-<a href="https://github.com/CodeDroid999?tab=followers"></a>
+<a href="https://github.com/GodyRacks?tab=followers"></a>
 <img src="https://img.shields.io/github/followers/CodeDroid999?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
 <!--streaks-->
 
