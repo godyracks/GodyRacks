@@ -67,6 +67,7 @@
 <!--social-media-->
 
 <!--footer-->
+[![GitHub stars](https://img.shields.io/github/stars/GodyRacks/GodyRacks.svg?style=social&label=Star)](https://github.com/GodyRacks/GodyRacks)
 
 <!--footer-->
 
