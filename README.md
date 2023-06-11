@@ -14,9 +14,7 @@
 </h1>
 <!--Typing svg-->
 
-<!--svg-->
-<img src="https://github.com/GodyRacks/GodyRacks/blob/d9a1b972c4ffd12048bc7e53af333e24c0bd8d15/language.jpg>
-<!--svg-->
+
 
 
 
