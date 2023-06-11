@@ -6,6 +6,8 @@ I'm a BSc Computer Science student and software enthusiast. Welcome to my GitHub
 
 - HTML
 - Sass
+- CSS
+- React.js
 - Node.js
 - Express.js
 - JavaScript
@@ -14,6 +16,8 @@ I'm a BSc Computer Science student and software enthusiast. Welcome to my GitHub
 - Python
 - Flask
 - C
+- Kotlin
+- Jetpack Compose
 
 ## Education
 
