@@ -40,13 +40,13 @@
 
 <!--about-->
 ### About Me
-- 🔭 I’m currently working on **building exciting web applications** that will make the internet go "Whoa!"
+- 🔭 I’m currently working on **building exciting web applications**
 - 🌱 I’m currently learning **Kotlin and Firebase** to add some magic to my coding spells.
 - 👯 I’m looking to collaborate on **open-source projects** because the more, the merrier in the realm of coding!
 - 🤔 I’m looking for help with **competitive programming** because I want to level up my coding ninja skills.
 - 💬 Ask me about **web development, UI/UX design, and programming languages**, and I'll have something to input!
 - 📫 How to reach me: Shoot me an email at **[godfreymatagaro@gmail.com](mailto:godfreymatagaro@gmail.com)**, and let's connect.
-- 😄 Pronouns: **He/Him** (but you can also call me "The Coding Sorcerer").
+- 😄 Pronouns: **He/Him** (but you can also call me "The Coding Baboon").
 - ⚡ Fun fact: **I love watching futuristic movies && reading tech blogs** to keep my imagination fueled and my coding vibes strong.
 
 🌐 Check out my website: [techwithgodfrey.top](https://techwithgodfrey.top)
