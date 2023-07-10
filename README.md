@@ -33,7 +33,7 @@
 ![Kivy](https://img.shields.io/badge/kivy-%23FF8700.svg?style=for-the-badge&logo=kivy&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/react-native-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/jetpack%20compose-%23000000.svg?style=for-the-badge&logo=android&logoColor=white)
 <!--technologies-->
 
