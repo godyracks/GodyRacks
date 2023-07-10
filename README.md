@@ -33,6 +33,7 @@
 ![Kivy](https://img.shields.io/badge/kivy-%23FF8700.svg?style=for-the-badge&logo=kivy&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/jetpack%20compose-%23000000.svg?style=for-the-badge&logo=android&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sqlite&logoColor=white)
