@@ -38,6 +38,8 @@
 ![Jetpack Compose](https://img.shields.io/badge/jetpack%20compose-%23000000.svg?style=for-the-badge&logo=android&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EE432E.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
+
 
 <!--technologies-->
 
