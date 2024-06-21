@@ -55,7 +55,7 @@
 - 😄 Pronouns: **He/Him** (but you can also call me "The Binary Bandit").
 - ⚡ Fun fact: **I love watching futuristic movies && reading tech blogs** to keep my imagination fueled and my coding vibes strong.
 
-🌐 Check out my latest website project: [thinkwemake.com](https://changadventure.co.ke)
+🌐 Check out my latest website project: [branighangroup.com](https://branighangroup.com)
 
 🎓 Currently studying BSc Computer Science and tinkering with Jetpack Compose and Cisco/Huawei network simulators. I'm also an API developer and a master of computer hardware assembly or repair.
 
