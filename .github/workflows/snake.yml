@@ -1,8 +1,8 @@
 name: Generate Snake
 
 on:
-  schedule: # Runs at 12am UTC
-    - cron: "0 0 * * *"
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -15,14 +15,14 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk@v2.1.0
         with:
-          github_user_name: godyracks
-          svg_out_path: github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          entryPoint: main  # Adjust according to the action's requirements
+          args: --output=github-contribution-grid-snake.svg  # Adjust as needed
 
-      - name: Commit generated SVG
+      - name: Commit and push generated SVG
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "GitHub Actions"
-          git add dist/github-contribution-grid-snake.svg
+          git add github-contribution-grid-snake.svg
           git commit -m "Update snake animation"
           git push
-
