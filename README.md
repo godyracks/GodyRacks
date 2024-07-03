@@ -47,11 +47,37 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GodyRacks.GodyRacks)
 
+### Project Showcase
+- **Project 1**: [Description of Project 1](link-to-project-1)
+- **Project 2**: [Description of Project 2](link-to-project-2)
+- **Project 3**: [Description of Project 3](link-to-project-3)
+
+### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GodyRacks&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GodyRacks&theme=radical" alt="GitHub Streak Stats"/>
+</p>
+
+### Wakatime Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GodyRacks&theme=radical" alt="Wakatime Stats"/>
+</p>
+
+### Recent Blog Posts
+- **[Blog Post 1](link-to-blog-post-1)**
+- **[Blog Post 2](link-to-blog-post-2)**
+- **[Blog Post 3](link-to-blog-post-3)**
+
 ### Connect with Me
 <p align="center">
   <a href="https://twitter.com/gody_racks" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/godfrey-onyinkwa-93712827a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
   <a href="https://www.instagram.com/gody_racks/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
+
+### Support Me
+If you enjoy my work, consider supporting me:
+- [Buy me a coffee](link-to-buy-me-a-coffee)
+- [Donate via PayPal](link-to-paypal)
 
 [![GitHub stars](https://img.shields.io/github/stars/GodyRacks/GodyRacks.svg?style=social&label=Star)](https://github.com/GodyRacks/GodyRacks)
