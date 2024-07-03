@@ -81,7 +81,7 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass"/>
 
   <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=godyracks&show_icons=true&theme=radical">
+ 
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godyracks&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical">
 </p>
 
