@@ -71,8 +71,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 - **Node.js**: For a robust backend.
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white" alt="Node.js"/>
-- **React**: A powerful library for building dynamic user interfaces.
-  <img src="https://img.shields.io/badge/Vue-61DAFB?style=flat-square&logo=react&logoColor=white" alt="Vue"/>
+- **Vue**:building dynamic UIs.
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white" alt="Vue.js"/>
 - **Docker**: Helps me containerize my applications and manage them efficiently.
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 - **Firebase**: For real-time databases and seamless backend services.
