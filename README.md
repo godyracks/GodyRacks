@@ -46,9 +46,9 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GodyRacks.GodyRacks)
 
 ### Project Showcase
-- **Project 1**: [Description of Project 1](link-to-project-1)
-- **Project 2**: [Description of Project 2](link-to-project-2)
-- **Project 3**: [Description of Project 3](link-to-project-3)
+- **Branighan Group**: [Real Estate, East African Design Firm 1](https://branighangroup.com)
+- **CVK LTD**: [Building and Construction firm](https://corneliusventures.co.ke)
+- **Chang Adventure**: [Trips and Tours(still under development) ](https://changadventure.co.ke)
 
 ### GitHub Stats
 <p align="center">
@@ -56,15 +56,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GodyRacks&theme=radical" alt="GitHub Streak Stats"/>
 </p>
 
-### Wakatime Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GodyRacks&theme=radical" alt="Wakatime Stats"/>
-</p>
+
 
 ### Recent Blog Posts
-- **[Blog Post 1](link-to-blog-post-1)**
-- **[Blog Post 2](link-to-blog-post-2)**
-- **[Blog Post 3](link-to-blog-post-3)**
+- **[What is Github?](link-to-blog-post-1)**
+- **[GB Whatsapp Issues, Ban.](link-to-blog-post-2)**
+
 
 ### Connect with Me
 <p align="center">
