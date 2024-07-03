@@ -12,25 +12,11 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v2
 
-      - name: Debug info before snake generation
-        run: |
-          echo "GitHub User Name: ${{ github.repository_owner }}"
-          echo "GitHub Run ID: ${{ github.run_id }}"
-          echo "GitHub Run Number: ${{ github.run_number }}"
-          ls -al  # List files to check the current directory content
-          env  # Print out environment variables for debugging
-
       - name: Generate snake animation
         id: snake
         uses: Platane/snk@v2.1.0
         with:
           github_user_name: ${{ github.repository_owner }}
-          args: --output=github-contribution-grid-snake.svg  # Adjust as needed
-
-      - name: Debug info after snake generation
-        run: |
-          ls -al  # List files again to check for snake SVG file
-          echo "Snake Output: ${{ steps.snake.outputs }}"  # Check outputs if needed
 
       - name: Commit and push generated SVG
         if: steps.snake.outputs.success == 'true'  # Ensure the snake generation was successful
