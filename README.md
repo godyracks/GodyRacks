@@ -43,7 +43,9 @@
 
 🎓 Currently studying BSc Computer Science and tinkering with Jetpack Compose and Cisco/Huawei network simulators. I'm also an API developer and a master of computer hardware assembly or repair.
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=GodyRacks.GodyRacks)
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=godyracks&style=for-the-badge&color=palevioletred" alt=""/>
+</div>
 
 ### Project Showcase
 - **Branighan Group**: [Real Estate, East African Design Firm 1](https://branighangroup.com)
