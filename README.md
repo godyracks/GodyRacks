@@ -50,7 +50,7 @@
 ### Project Showcase
 - **Branighan Group**: [Real Estate, East African Design Firm 1](https://branighangroup.com)
 - **CVK LTD**: [Building and Construction firm](https://corneliusventures.co.ke)
-- **Chang Adventure**: [Trips and Tours(still under development) ](https://changadventure.co.ke)
+- **Chang Adventure**: [Trips and Tours (still under development) ](https://changadventure.co.ke)
 
 ### GitHub Stats
 <p align="center">
@@ -71,13 +71,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 - **Node.js**: For a robust backend.
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white" alt="Node.js"/>
-- **Vue**:building dynamic UIs.
+- **Vue**: Building dynamic UIs.
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white" alt="Vue.js"/>
-- **Docker**: Helps me containerize my applications and manage them efficiently.
+- **Docker**: Containerizing my apps.
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-- **Firebase**: For real-time databases and seamless backend services.
+- **Firebase**: For real-time DB services.
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
-- **Sass**: Makes writing and maintaining CSS more efficient and enjoyable.
+- **Sass**: Efficient CSS.
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass"/>
 
   <p align="center">
