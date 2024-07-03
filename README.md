@@ -98,6 +98,11 @@ If you enjoy my work, consider supporting me:
 
 [![GitHub stars](https://img.shields.io/github/stars/GodyRacks/GodyRacks.svg?style=social&label=Star)](https://github.com/GodyRacks/GodyRacks)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GodyRacks/GodyRacks/main/github-snake.svg" alt="Snake Animation"/>
+</p>
+
+
 
 
 
