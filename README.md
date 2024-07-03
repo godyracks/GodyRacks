@@ -44,7 +44,7 @@
 🎓 Currently studying BSc Computer Science and tinkering with Jetpack Compose and Cisco/Huawei network simulators. I'm also an API developer and a master of computer hardware assembly or repair.
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=godyracks&style=for-the-badge&color=palevioletred" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=godyracks&style=for-the-badge&color=violetred" alt=""/>
 </div>
 
 ### Project Showcase
