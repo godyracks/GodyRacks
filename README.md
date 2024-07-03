@@ -62,6 +62,23 @@
 - **[What is Github?](link-to-blog-post-1)**
 - **[GB Whatsapp Issues, Ban.](link-to-blog-post-2)**
 
+### My Favorite Tools and Technologies
+- **Visual Studio Code**: My go-to code editor, with its vast library of extensions and customizable interface.
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
+- **Git**: Essential for version control and collaborative development.
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+- **Node.js**: Enables me to build scalable network applications quickly and efficiently.
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white" alt="Node.js"/>
+- **React**: A powerful library for building dynamic user interfaces.
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React"/>
+- **Docker**: Helps me containerize my applications and manage them efficiently.
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+- **Firebase**: For real-time databases and seamless backend services.
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
+- **Sass**: Makes writing and maintaining CSS more efficient and enjoyable.
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass"/>
+
+
 
 ### Connect with Me
 <p align="center">
