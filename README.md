@@ -63,7 +63,7 @@
 - **[What is Github?](https://thinkwemake.com/blog/full-article/level-up-your-coding-journey:-why-github-is-essential-for-beginners-and-how-to-get-started)**
 - **[GB Whatsapp Issues, Ban.](https://thinkwemake.com/blog/full-article/unpacking-whatsapp-gb:-issues,-privacy-concerns,-and-transitioning-to-official-messenger)**
 
-  ![Repository Visits](https://img.shields.io/endpoint?url=https://api.countapi.xyz/hit/godyracks/corneliusventures.co.ke)
+![Vue Visits](https://api.visitorbadge.io/api/VisitorHit?user=godyracks&repo=corneliusventures.co.ke&countColor=%237B1E7A)
 
 
 ### My Favorite Tools and Technologies
