@@ -15,8 +15,8 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk@v2.1.0
         with:
-          github_user_name: GodyRacks
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: godyracks
+          svg_out_path: github-contribution-grid-snake.svg
 
       - name: Commit generated SVG
         run: |
