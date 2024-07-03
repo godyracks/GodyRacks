@@ -100,6 +100,7 @@ If you enjoy my work, consider supporting me:
 
 ### Fun Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GodyRacks/GodyRacks/main/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/godyracks/GodyRacks/main/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
+
 
