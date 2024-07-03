@@ -13,13 +13,24 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Generate snake animation
+        id: snake
         uses: Platane/snk@v2.1.0
         with:
           github_user_name: ${{ github.repository_owner }}
           entryPoint: main  # Adjust according to the action's requirements
           args: --output=github-contribution-grid-snake.svg  # Adjust as needed
 
+      - name: Debug info
+        run: |
+          echo "Workflow ran successfully."
+          ls -al  # List files to check if svg file exists
+          echo "GitHub User Name: ${{ github.repository_owner }}"
+          echo "Workflow Run ID: ${{ github.run_id }}"
+          echo "Workflow Run Number: ${{ github.run_number }}"
+          echo "Snake Output: ${{ steps.snake.outputs }}"  # Check outputs if needed
+
       - name: Commit and push generated SVG
+        if: steps.snake.outputs.success == 'true'  # Ensure the snake generation was successful
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "GitHub Actions"
