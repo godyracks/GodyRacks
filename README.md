@@ -78,7 +78,12 @@
 - **Sass**: Makes writing and maintaining CSS more efficient and enjoyable.
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass"/>
 
+### Inspirational Quotes
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
+> "First, solve the problem. Then, write the code." – John Johnson
+
+> "Experience is the name everyone gives to their mistakes." – Oscar Wilde
 
 ### Connect with Me
 <p align="center">
