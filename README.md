@@ -13,7 +13,7 @@
 </p>
 
  ### Top Technologies
-<div align="center">
+<div align="center" style="max-width: 400px; margin: 0 auto;">
 
   <p>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
