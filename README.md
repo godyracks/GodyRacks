@@ -11,9 +11,9 @@
     <img src="https://img.shields.io/github/followers/GodyRacks?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
   </a>
 </p>
-
-<div align="center">
  ### Top Technologies
+<div align="center">
+
   <p>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
     <img src="https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
@@ -30,6 +30,7 @@
     <img src="https://img.shields.io/badge/CodeIgniter-%23EE432E.svg?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>
   </p>
 </div>
+
 ### About Me
 - 🔭 I’m currently working on **building exciting web applications**
 - 🌱 I’m currently learning **Vue.js and Express.js** to add some magic to my coding spells.
