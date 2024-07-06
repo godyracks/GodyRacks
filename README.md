@@ -14,21 +14,20 @@
 
  ### Top Technologies
 <div align="center" style="max-width: 400px; margin: 0 auto;">
-
   <p>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
     <img src="https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
-     <img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
+     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white" alt="Vue.js"/>
     <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/kivy-%23FF8700.svg?style=for-the-badge&logo=kivy&logoColor=white" alt="Kivy"/>
+     <img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/kivy-%23FF8700.svg?style=for-the-badge&logo=kivy&logoColor=white" alt="Kivy"/>
+    <img src="https://img.shields.io/badge/CodeIgniter-%23EE432E.svg?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-    <img src="https://img.shields.io/badge/CodeIgniter-%23EE432E.svg?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>
   </p>
 </div>
 
