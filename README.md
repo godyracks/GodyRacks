@@ -13,7 +13,7 @@
 </p>
 
  ### Top Technologies
-<div align="center" style="max-width: 400px;">
+<p align="center" style="max-width: 400px;">
 
   <p>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
     <img src="https://img.shields.io/badge/CodeIgniter-%23EE432E.svg?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>
   </p>
-</div>
+</p>
 
 ### About Me
 - 🔭 I’m currently working on **building exciting web applications**
