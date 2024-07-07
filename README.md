@@ -108,7 +108,7 @@
 If you enjoy my work, consider supporting me:
 - Leave a star to your favorite repo
 
-[![GitHub stars](https://img.shields.io/github/stars/GodyRacks/GodyRacks.svg?style=social&label=Star)](https://github.com/godyracks/corneliusventures.co.ke)
+
 
 
 
