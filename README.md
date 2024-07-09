@@ -78,7 +78,7 @@
  <img width="120" height="40" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
  <img width="120" height="40" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass"/>
   </div>
-  
+  <br />
 <p align="center">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godyracks&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical">
 </p>
