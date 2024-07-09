@@ -67,7 +67,7 @@
 - **[GB Whatsapp Issues, Ban.](https://thinkwemake.com/blog/full-article/unpacking-whatsapp-gb:-issues,-privacy-concerns,-and-transitioning-to-official-messenger)**
 
 
-
+<div align="center" style="max-width: 400px; margin: 0 auto;">
 
 ### My Favorite Tools and Technologies
 - 
@@ -86,6 +86,8 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass"/>
 
   <p align="center">
+
+  </div>
  
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godyracks&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical">
 </p>
