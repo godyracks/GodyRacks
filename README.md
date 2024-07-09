@@ -70,19 +70,19 @@
 
 
 ### My Favorite Tools and Technologies
-- **Visual Studio Code**: My go-to code editor.
+- 
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
-- **Git**: Essential for version control.
+- 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-- **Node.js**: For a robust backend.
+- 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white" alt="Node.js"/>
-- **Vue**: Building dynamic UIs.
+- 
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white" alt="Vue.js"/>
-- **Docker**: Containerizing my apps.
+- 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-- **Firebase**: For real-time DB services.
+- 
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
-- **Sass**: Efficient CSS.
+- 
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass"/>
 
   <p align="center">
