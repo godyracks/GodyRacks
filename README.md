@@ -50,7 +50,7 @@
 </div>
 
 ### Recent Projects Showcase
-- **Branighan Group**: [Real Estate, East African Design, Buy & Build Firm (still under development)](https://branighangroup.com)
+- **Branighan Group**: [Real Estate, East African Design, Buy & Build Firm](https://branighangroup.com)
 - **CVK LTD**: [Building and Construction firm (still under development)](https://corneliusventures.co.ke)
 - **Chang Adventure**: [Trips and Tours (still under development) ](https://changadventure.co.ke)
 
