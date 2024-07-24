@@ -37,7 +37,7 @@
 - 👯 I’m looking to collaborate on **open-source projects** because the more, the merrier in the realm of coding!
 - 🤔 I’m looking for help with **competitive programming** because I want to level up my coding ninja skills.
 - 💬 Ask me about **web development, UI/UX design, and programming languages**, and I'll have something to input!
-- 📫 How to reach me: Shoot me an email at **[godyracks@gmail.com](mailto:godyracks@gmail.com)**, and let's connect.
+- 📫 How to reach me: Shoot me an email at **[godyracks@gmail.com](mailto:godyracks@gmail.com)**, or WhatsApp **[+254 112 582559]** and let's connect.
 - 😄 Pronouns: **He/Him** (but you can also call me "The Binary Bandit").
 - ⚡ Fun fact: **I love watching futuristic movies && reading tech blogs** to keep my imagination fueled and my coding vibes strong.
 
