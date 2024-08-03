@@ -64,7 +64,7 @@
 - **[GB Whatsapp Issues, Ban.](https://thinkwemake.com/blog/full-article/unpacking-whatsapp-gb:-issues,-privacy-concerns,-and-transitioning-to-official-messenger)**
 
 
-<div align="center" style="max-width: 500px; margin: 0 auto;">
+<div align="center" style="max-width: 480px; margin: 0 auto;">
 
 ### My Favorite Tools and Technologies
  <img width="90" height="30" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
