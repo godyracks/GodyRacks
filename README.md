@@ -87,10 +87,10 @@
 
 ### Connect with Me
 <p align="center">
-  <a href="https://twitter.com/godyracks" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <a href="https://x.com/godyracks" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/godfrey-onyinkwa-93712827a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
   <a href="https://www.instagram.com/godyracks/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.tiktok.com/gody.racks/" target="_blank"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white"/></a>
+  <a href="https://www.tiktok.com/@gody.racks/" target="_blank"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white"/></a>
 
 </p>
 
