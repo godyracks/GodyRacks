@@ -37,7 +37,7 @@
 - 📫 How to reach me: Shoot me an email at **[godyracks@gmail.com](mailto:godyracks@gmail.com)**, or WhatsApp **+254 112 582559** and let's connect.
 - ⚡ Fun fact: **I love watching futuristic movies && reading tech blogs** to keep my imagination fueled.
 
-🌐 Check out my latest website project: [Branighan Group Ltd](https://branighangroup.com)
+
 
 🎓 Currently studying BSc Computer Science and tinkering with C# and Cisco/Huawei network simulators. I'm also an API developer and a master of computer hardware assembly or repair.
 
@@ -45,9 +45,6 @@
   <img src="https://komarev.com/ghpvc/?username=godyracks&style=for-the-badge&color=blue" alt=""/>
 </div>
 
-### Recent Projects Showcase
-- **Branighan Group**: [Real Estate, East African Design, Buy & Build Firm](https://branighangroup.com)
-- **Chang Adventure**: [Trips and Tours (still under development) ](https://changadventure.co.ke)
 
 ### GitHub Stats
 <p align="center">
